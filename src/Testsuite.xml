@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ebay regression" >
+	<test name="launchApp">
+		<classes>
+			<class name="ebay.appium.LaunchApp"/>
+		</classes>
+	</test> <!-- Test -->
+	<test name="LoginValidation">
+		<classes>
+			<class name="ebay.appium.LoginValidation"/>
+		</classes>
+	</test> 
+	<test name="Uigesture">
+		<classes>
+			<class name="ebay.appium.Uigesture"/>
+		</classes>
+	</test> 
+	<test name="Purchaseproduct">
+		<classes>
+			<class name="ebay.appium.Purchaseproduct"/>
+		</classes>
+	</test>
+</suite> <!-- Suite -->

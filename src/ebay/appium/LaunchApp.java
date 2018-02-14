@@ -30,7 +30,7 @@ public void SetUp()
 {
 	  
 	  Path = System.getProperty("user.dir");
-	  File appDir = new File("C:\\Users\\vinodhakannan\\DebelopmentAvecto\\ebay apk");
+	  File appDir = new File("D:\\Development_Avecto\\ebayapk");
       File app = new File(appDir, "com.ebay.mobile-5.16.apk");
       DesiredCapabilities capabilities = new DesiredCapabilities();
       capabilities.setCapability("device","Android");
@@ -54,13 +54,6 @@ catch (MalformedURLException e) {
 driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 }
 
-
-
-public static void main(String[] args) throws MalformedURLException {
-		 LaunchApp obj = new LaunchApp();
-		 obj.SetUp();
-		 
-		  }
 
 }
 

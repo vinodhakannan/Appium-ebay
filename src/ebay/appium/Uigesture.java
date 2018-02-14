@@ -10,6 +10,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
+import org.openqa.selenium.Rotatable;
+import org.openqa.selenium.ScreenOrientation;
 
 import java.util.HashMap;
 
@@ -92,8 +94,8 @@ public class Uigesture extends LaunchApp {
     public void screenrotation() {
     	JavascriptExecutor js = (JavascriptExecutor) driver;
     	
-    	driver.rotate(ScreenOrientation.LANDSCAPE);
-    	driver.rotate(ScreenOrientation.PORTRAIT);
+    	((Rotatable) driver).rotate(ScreenOrientation.LANDSCAPE);
+    	((Rotatable) driver).rotate(ScreenOrientation.PORTRAIT);
     	
     }
     
