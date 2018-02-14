@@ -1,17 +1,12 @@
 package ebay.appium;
 
-import java.util.concurrent.TimeUnit;
-
-import org.openqa.selenium.By;
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
-
 import uicomponents.LoginScreen;
 
 @Test (priority=0)
 
 public class LoginValidation extends LaunchApp{
-	TestData data = null;
+	
 	
 
 	public void loginaction() {

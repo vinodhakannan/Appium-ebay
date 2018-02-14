@@ -3,12 +3,8 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 //Llibrary for Appium drivers
 import io.appium.java_client.android.AndroidDriver;
-//Libraries for configuring Desired Capabilities
-import io.appium.java_client.remote.MobileCapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.BeforeSuite;
-import ebay.appium.LaunchApp.TestData;
-import org.openqa.selenium.By;
 //Library to create the path to APK
 import java.io.File;
 //Library used to verify if URL is malformed
@@ -17,11 +13,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.concurrent.TimeUnit;
 public class LaunchApp {
-	public interface TestData {
-
-	}
-
-TestData data = null;
+	
 AppiumDriver<MobileElement> driver;
 String Path;
 @BeforeSuite
@@ -42,7 +34,6 @@ public void SetUp()
       capabilities.setCapability("appActivity", "com.ebay.mobile.activities.MainActivity");
       capabilities.setCapability("app", app.getAbsolutePath());
 	
-
 try
 {
 	// to start Appium server
