@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Appium ebay automation</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/.DS_Store</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/appium/ebay/src/ebay/.DS_Store</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/libs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/libs/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/libs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/libs/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/client-combined-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-java-3.9.1/client-combined-3.9.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/java-client-5.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/selenium-android-driver.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/eclipse jar/testng-6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/allure-commons-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/allure-cucumber-jvm-adaptor-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/allure-helper-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/allure-java-adaptor-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/allure-java-annotations-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/allure-java-aspects-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/allure-model-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/annotations-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/aspectjrt-1.8.9.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/aspectjweaver-1.8.9.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/bcpkix-jdk15on-1.53.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/bcprov-jdk15on-1.47.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/browsermob-core-2.1.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/browsermob-core-littleproxy-2.1.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/classworlds-1.1-alpha-2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/commons-digester-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/commons-validator-1.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/cssparser-0.9.18.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/cucumber-runner-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/datajack-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/dnsjava-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/htmlelements-java-1.17-JAVA7.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/htmlunit-2.21.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/htmlunit-driver-2.21.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jackson-annotations-2.6.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jackson-core-2.6.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jackson-databind-2.6.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/javassist-3.19.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jaxb2-basics-runtime-0.9.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jcl-over-slf4j-1.7.13.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jetty-io-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jetty-util-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jsr305-2.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/jzlib-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/littleproxy-1.1.0-beta-bmp-10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/maven-artifact-2.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/maven-artifact-manager-2.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/maven-model-2.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/maven-plugin-registry-2.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/maven-profile-2.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/maven-project-2.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/maven-repository-metadata-2.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/maven-settings-2.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/mitm-2.1.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/mongo-java-driver-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/monte-media-1.1.0-JAVA7.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/neko-htmlunit-2.21.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/netty-all-4.0.33.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/page-factory-1.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/plexus-container-default-1.0-alpha-9-stable-1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/plexus-interpolation-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/plexus-utils-1.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/poi-3.13.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/poi-ooxml-3.13.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/poi-ooxml-schemas-3.13.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/properties-2.0.RC5.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/qa-utils-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/quality-check-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/reflections-0.9.10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/selenium-api-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/selenium-chrome-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/selenium-edge-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/selenium-firefox-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/selenium-ie-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/selenium-leg-rc-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/selenium-remote-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/selenium-safari-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/selenium-support-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/slf4j-simple-1.7.22.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/spring-aop-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/spring-beans-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/spring-context-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/spring-core-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/spring-expression-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/tika-core-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/uadetector-core-0.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/uadetector-resources-2014.10.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/video-recorder-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/wagon-provider-api-1.0-beta-2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Development_Avecto/jar_files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
