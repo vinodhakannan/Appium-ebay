@@ -8,7 +8,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.RemoteWebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 import org.openqa.selenium.Rotatable;
 import org.openqa.selenium.ScreenOrientation;
@@ -69,17 +68,7 @@ public class Uigesture extends LaunchApp {
         swipeObject.put("duration", 3.0);
         js.executeScript("mobile: swipe", swipeObject);
     }
-@Test
-    public void swipeFirstCarouselFromRightToLeft() {
-        JavascriptExecutor js = (JavascriptExecutor) driver;
-        HashMap<String, Double> swipeObject = new HashMap<String, Double>();
-        swipeObject.put("startX", 0.9);
-        swipeObject.put("startY", 0.2);
-        swipeObject.put("endX", 0.01);
-        swipeObject.put("endY", 0.2);
-        swipeObject.put("duration", 3.0);
-        js.executeScript("mobile: swipe", swipeObject);
-    }
+
 @Test
     public void performTapAction(WebElement elementToTap) {
         JavascriptExecutor js = (JavascriptExecutor) driver;
