@@ -5,6 +5,8 @@ import org.openqa.selenium.By;
 
 public class PurchaseProduct {
 	
+	// To search a product and add to cart
+	
 	 public static final By Searchicon = By.id("com.ebay.mobile:id/search_box");
 	 
 	 public static final By Searchfield = By.id("com.ebay.mobile:id/search_box");
